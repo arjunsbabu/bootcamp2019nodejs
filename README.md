@@ -1,6 +1,6 @@
 # Build nodejs application locally .
 
-1. Clone the git repo. "git clone git@github.com:arjunsbabu/bootcamp2019nodejs.git"
+1. Clone the git repo. "git clone https://github.com/arjunsbabu/bootcamp2019nodejs.git"
 
 2. Navigate to git folder and build the application using command  "docker build -t yourusername/nodewebapp:v1.0 ."
 
